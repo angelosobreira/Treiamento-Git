@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./logo.png](Logo ProSESMT)
+![Logo ProSESMT](./logo.png)
 
 Este repositório é de exemplo do curso de Git
