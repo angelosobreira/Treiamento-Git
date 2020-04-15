@@ -1,3 +1,5 @@
 Marte
 Jupiter
 Saturno
+Urano
+Mercúrio
